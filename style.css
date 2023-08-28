@@ -1,0 +1,111 @@
+/* a name of style */
+.backgroundimg{
+    background-image: url(image/aname.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.aname{
+    color: #a0cd6c !important;
+
+}
+.bgred{
+    background-color:#ea462b!important;
+    border-radius: 0 !important;
+    border-style: none !important;
+    color: aliceblue !important;
+}
+.bgred:hover{
+    color:#ea462b !important;
+    background-color: aliceblue !important;
+}
+
+
+/* Product Categories style start */
+
+.proback:hover{
+    transform: scale(5);
+    transition-duration: 0.9s ease-in-out;
+    transition: all 0.3s;
+    /* border: 4px solid #ffffff; */
+    background-color: rgb(239, 243, 241);
+    border-radius: 10px;
+    transform: translateY(2%);
+}
+/* Product Categories style end */
+
+
+
+
+/* <!-- Our Mission style start --> */
+.ourimg{
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    padding-top: 200px;
+
+}
+
+
+.footahover a:hover{
+    color: #ea462b!important;
+}
+
+/* contact us style */
+.contactus{
+    background-image: url(image/contactus.jpg);
+    background-size: cover;
+}
+
+.contactusbtn{
+    background-color:#ea462b!important;
+    border-radius: 0 !important;
+    border-style: none !important;
+    color: aliceblue !important;
+}
+.contactusbtn:hover{
+    color:#ea462b !important;
+    background-color: aliceblue !important;
+}
+
+<!-- Praise to Fulkoli style start-->
+.raisebg{
+    background-image: url(image/praisebg.jpg)!important;
+    background-size: cover;
+
+}
+
+.navhom{
+    color: rgb(24, 25, 25)!important;
+    padding: 30 4px!important;
+    font-size: 40px;
+}
+
+
+.navhom:hover{
+    background-color: #ea462b!important;
+    padding: 12px 4px!important;
+    color: aliceblue!important;
+}
+
+.bgnav{
+    background-color: #a0cd6c;
+}
+
+.btncontactus:hover{
+    background-color: #ea462b!important;
+    color: aliceblue!important;
+
+}
+.btncontactus{
+    border-radius: 0!important;
+    border: 2px solid red !important;
+    color: black!important;
+}
+
+html{
+    scroll-behavior: smooth !important;
+    
+}
+ 
